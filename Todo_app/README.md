@@ -3,7 +3,7 @@ This was my first project towards python & django.\
 It is totaly based on CRUD operations.\
 At a time any one can create, update, read and delete task.
 
-### Language used:
+### Technology used:
 * Frontend : HTML, css, Bootstrap, JS
 * Backend : python, Django
 * DB : SQLite
