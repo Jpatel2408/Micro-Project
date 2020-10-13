@@ -1,7 +1,7 @@
 # To-do app
 This was my first project towards python & django.\
 It is totaly based on CRUD operations.\
-At a time any one can create, update, read and delete task.\
+At a time any one can create, update, read and delete task.
 
 ### Language used:
 * Frontend : HTML, css, Bootstrap, JS
